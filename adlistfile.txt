@@ -1,3 +1,4 @@
 0.0.0.0 www.sport24.gr
 0.0.0.0 thepiratebay.org
 0.0.0.0 www.stremio.com
+0.0.0.0 https://thepiratebay.org/index.html
